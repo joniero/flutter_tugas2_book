@@ -1,3 +1,5 @@
-# network_state_management
+Tugas Flutter 2
 
-A new Flutter project.
+# network_state_management
+# books search - detail
+# get from API 
